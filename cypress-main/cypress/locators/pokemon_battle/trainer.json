@@ -1,0 +1,3 @@
+{
+    "change_avatar": ".k_mobile > :nth-child(5) > #dropdown > img"
+}

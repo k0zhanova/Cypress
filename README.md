@@ -1,2 +1,2 @@
 # Cypress
-Автотесты на UI часть на JavaScript + Cypress
+Автотесты UI на JavaScript + Cypress

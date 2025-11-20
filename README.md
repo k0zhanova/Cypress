@@ -1,2 +1,2 @@
 # Cypress
-Автотесты на клиентскую часть на Cypress JavaScript
+Автотесты на UI часть на JavaScript + Cypress
